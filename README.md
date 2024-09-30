@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋Welcome
+
+백엔드 개발과 데이터베이스 구축을 주로 공부하고 있는 강창진입니다.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangCJ44)](https://github.com/anuraghazra/github-readme-stats)
 
